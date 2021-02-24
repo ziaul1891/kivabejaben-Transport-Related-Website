@@ -1,0 +1,459 @@
+h1{
+color:Green;
+}
+
+a{
+color:yellow;
+}
+
+#user{
+position:relative;
+left:00px;
+}
+
+
+
+/*for registration page*/
+
+#importantnotice{
+position:absolute;
+top:400px;
+left:50px;
+}
+
+.register-form{
+	position:relative;
+	top:30px;
+	width: 500px;
+	height:450px;
+	margin: 0 auto;
+	text-align: center;
+	padding: 10px;
+	color: #fff;
+	background : #c4c4c4;
+	border-radius: 10px;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+	
+}
+
+.register-form h1{
+color:Green;
+font-weight:bold;
+font-family: Arial, Helvetica, sans-serif;
+display: block;
+font-size: 2em;
+
+-webkit-margin-before: 0.67em;
+-webkit-margin-after: 0.67em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+
+}
+
+#tableregistration{
+position:absolute;
+left:40px;
+top:180px;
+color:black;
+}
+
+
+
+
+.register-form form input{padding: 3px;position:relative;left:190px}
+.register-form .btn{background: #726E6E;
+padding: 7px;
+border-radius: 5px;
+text-decoration: none;
+width: 50px;
+display: inline-block;
+color: #FFF;}
+
+.register-form .register{
+position:relative;
+left:250px;
+border: 0;
+border-radius: 5px;
+display: inline-block;
+width: 70px;
+padding: 8px;
+background-color: #FFFFC0;
+color:#356;
+font-weight: bold;
+}
+
+
+
+
+/*for registration page*/
+
+
+
+
+
+
+
+
+
+
+
+/*for login page*/
+
+.login-form{
+	position:relative;
+	top:30px;
+	height:300px;
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+	padding: 10px;
+	color: #fff;
+	background : #c4c4c4;
+	border-radius: 10px;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+}
+
+
+.login-form h1{
+color:Green;
+font-weight:bold;
+font-family: Arial, Helvetica, sans-serif;
+display: block;
+font-size: 2em;
+
+-webkit-margin-before: 0.67em;
+-webkit-margin-after: 0.67em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+
+}
+
+#tablelogin{
+position:absolute;
+top:140px;
+left:40px;
+color:black;
+}
+
+.login-form form input{padding: 3px;position:relative;left:190px}
+
+.login-form a{
+text-decoration:none;
+color:blue;
+}
+
+
+.login-form a:visited{
+color:#225;
+}
+
+.login-form a:hover{
+color:Green;
+}
+
+
+
+
+.login-form .registerphp {
+position:relative;
+left:50px;
+top:20px;
+}
+
+.login-form .forgotpass {
+position:relative;
+left:140px;
+top:20px;
+}
+
+
+
+.login-form .login{
+position:relative;
+left:250px;
+border: 0;
+border-radius: 5px;
+display: inline-block;
+width: 70px;
+padding: 8px;
+background-color: #FFFFC0;
+color:#356;
+font-weight: bold;
+}
+
+/*for login page*/
+
+
+
+
+
+
+
+
+
+/*for activation page*/
+
+.activate-form{
+	position:relative;
+	top:30px;
+	width: 500px;
+	height:300px;
+	margin: 0 auto;
+	text-align: center;
+	padding: 10px;
+	color: #fff;
+	background : #c4c4c4;
+	border-radius: 10px;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+}
+
+
+
+.activate-form h1{
+color:Green;
+font-weight:bold;
+font-family: Arial, Helvetica, sans-serif;
+display: block;
+font-size: 2em;
+
+-webkit-margin-before: 0.67em;
+-webkit-margin-after: 0.67em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+
+}
+
+
+#tableactivate{
+position:absolute;
+left:40px;
+top:150px;
+color:black;
+}
+
+.activate-form form input{padding: 5px;position:relative;left:200px}
+
+
+.activate-form .activate{
+position:relative;
+left:250px;
+border: 0;
+border-radius: 5px;
+display: inline-block;
+width: 70px;
+padding: 8px;
+background-color: #FFFFC0;
+color:#356;
+font-weight: bold;
+}
+
+
+/*for activation page*/
+
+
+
+
+
+
+
+
+
+
+
+
+/*for logout page*/
+.logout-form{
+	position:relative;
+	top:30px;
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+	padding: 10px;
+	color: #fff;
+	background : #c4c4c4;
+	border-radius: 10px;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+}
+
+
+
+
+.logout-form h1{
+color:Green;
+font-weight:bold;
+font-family: Arial, Helvetica, sans-serif;
+display: block;
+font-size: 2em;
+
+-webkit-margin-before: 0.67em;
+-webkit-margin-after: 0.67em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+
+}
+
+
+
+/*for logout page*/
+
+
+
+
+
+
+
+
+/*for forgotpass page*/
+
+
+.forgotpass-form{
+	position:relative;
+	top:30px;
+	width: 500px;
+	height:300px;
+	margin: 0 auto;
+	text-align: center;
+	padding: 10px;
+	color: #fff;
+	background : #c4c4c4;
+	border-radius: 10px;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+}
+.forgotpass-form{
+	position:relative;
+	top:30px;
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+	padding: 10px;
+	color: #fff;
+	background : #c4c4c4;
+	border-radius: 10px;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+}
+
+
+#tableforgotpass{
+position:absolute;
+left:40px;
+top:150px;
+color:black;
+}
+
+.forgotpass-form form input{padding: 3px;position:relative;left:190px}
+
+
+.forgotpass-form .forgotpass{
+position:relative;
+left:220px;
+border: 0;
+border-radius: 5px;
+display: inline-block;
+width: 120px;
+padding: 8px;
+background-color: #FFFFC0;
+color:#356;
+font-weight: bold;
+}
+
+/*for forgotpass page*/
+
+
+
+
+
+
+
+
+
+/*for resetpass page*/
+
+.resetpass-form{
+	position:relative;
+	top:30px;
+	width: 500px;
+	height:300px;
+	margin: 0 auto;
+	text-align: center;
+	padding: 10px;
+	color: #fff;
+	background : #c4c4c4;
+	border-radius: 10px;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+}
+
+
+.resetpass-form{
+	position:relative;
+	top:30px;
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+	padding: 10px;
+	color: #fff;
+	background : #c4c4c4;
+	border-radius: 10px;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+}
+
+
+#tableresetpass{
+position:absolute;
+left:30px;
+top:130px;
+color:black;
+}
+
+.resetpass-form form input{padding: 3px;position:relative;left:163px}
+
+
+.resetpass-form .resetpassbutton{
+position:relative;
+left:210px;
+border: 0;
+border-radius: 5px;
+display: inline-block;
+width: 110px;
+padding: 8px;
+background-color: #FFFFC0;
+color:#356;
+font-weight: bold;
+}
+
+
+/*for resetpass page*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
